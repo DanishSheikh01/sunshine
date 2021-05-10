@@ -1,2 +1,4 @@
 # sunshine
-Sunshine app Udacity
+Sunshine Weather app 
+Showing Weather From last 14 days
+
